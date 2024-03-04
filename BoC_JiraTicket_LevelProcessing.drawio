@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2024-02-08T16:51:57.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="o1njrAukqpF4pvUyppKs" version="23.0.2" type="device">
+  <diagram name="Seite-1" id="g2wDxme80Bx40a860HSw">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-1" value="&lt;b&gt;EPIC&lt;br&gt;&lt;br&gt;(???)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-2" value="&lt;b&gt;Capability&lt;br&gt;&lt;br&gt;(Duration &amp;gt; 1PI / 3month)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MSOLSDM-6997 (&lt;font color=&quot;#ff3333&quot;&gt;BoC Integrated&lt;/font&gt;)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TkBsoFcI-wAh-r6ecWt3-4" target="TkBsoFcI-wAh-r6ecWt3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-16" value="Parent link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TkBsoFcI-wAh-r6ecWt3-14">
+          <mxGeometry x="-0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-4" value="&lt;b&gt;Feature&lt;br&gt;&lt;br&gt;(Duration &amp;lt;= 1PI / 3month)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MSOLSDM-9459 ([PEP1089828R] LXM32iETH - Fix Cybersecurity issues and update PNO certificate - PI#24.1)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-8" value="&lt;b&gt;UserStory&lt;br&gt;&lt;br&gt;(Duration &amp;lt;= 1 Iteration / 3weeks)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MSOLSDM-9841 (LXM32iETH - Collect relevant R&amp;amp;D and ext. service provider data for further BOC project planning)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TkBsoFcI-wAh-r6ecWt3-8" target="TkBsoFcI-wAh-r6ecWt3-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="450" as="sourcePoint" />
+            <mxPoint x="650" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-11" value="Parent link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TkBsoFcI-wAh-r6ecWt3-10">
+          <mxGeometry x="-0.075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkBsoFcI-wAh-r6ecWt3-2" target="TkBsoFcI-wAh-r6ecWt3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="450" as="sourcePoint" />
+            <mxPoint x="290" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-18" value="&lt;font color=&quot;#ff3333&quot;&gt;EPIC link : BoC Integrated&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TkBsoFcI-wAh-r6ecWt3-17">
+          <mxGeometry x="-0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MSOLSDM-837&amp;nbsp;(&lt;font color=&quot;#ff3333&quot;&gt;BoC Integrated&lt;/font&gt;)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TkBsoFcI-wAh-r6ecWt3-24" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Jira ticket processing on BoC projects (example from BoC Integrated)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
