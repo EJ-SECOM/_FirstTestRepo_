@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------
+COPYRIGHT (C) Schneider Electric Motion 2008. All rights reserved.
+-------------------------------------------------------------------------
+PROJECT     SERVO3
+PRODUCT     Servo3 fieldbus device
+AUTHOR      wurtr
+FILENAME    $Id: //servo3/code/main/prog/PR0912-00/00vers.txt#4 $
+-------------------------------------------------------------------------
+DD.MM.YYYY   User   <affected devices>
+             release infos:
+                - your comment...
+             internal infos:
+                - your comment...
+-------------------------------------------------------------------------
+
+
+30.01.2008   wurtr  ***** SERVO3 platform *****
+
+... Changed here for git test ...
+
+
+Add change in file linked to FirstBranch !!!   ***
+
+
+

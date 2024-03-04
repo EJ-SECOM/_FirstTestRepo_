@@ -1,0 +1,8 @@
+# Comment for testing Git behaviour
+# Create a new revision
+MSOLSDM-5759 - [PEP1058723R] KWO - LXM32M/V1.34.02 - 3rd party motor /encoder quality issue
+-> SERVO-1126 - LXM32M - 3rd party motor with encoder 1Vpp rotary not working with firmware V01.34.02
+
+
+
+

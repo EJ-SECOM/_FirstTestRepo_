@@ -1,0 +1,4 @@
+#ignore *.doc file group
+*.doc
+#ignore single file list
+_GitCommand_View.txt
