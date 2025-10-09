@@ -17,6 +17,7 @@ DATE     WHO   WHAT
 23122004 wurtr order of calling dco-task and can-task changed in main loop
 05112006 wurtr Moved the detailed functionality to basMain.cpp
 23122008 petrj swinfo.h added
+09102025 jaege line added for github test
 -------------------------------------------------------------------------
 */
 
