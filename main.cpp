@@ -18,6 +18,7 @@ DATE     WHO   WHAT
 05112006 wurtr Moved the detailed functionality to basMain.cpp
 23122008 petrj swinfo.h added
 09102025 jaege line added for github test
+15052026 jaege New comment line added for github test
 -------------------------------------------------------------------------
 */
 
